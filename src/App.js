@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import {Example} from './Example';
+//import {Example} from './Example';
 
 function App() {
   return (
     <>
-    <div>Hello this is example</div>
-    <Example />
+    {/* <div>Hello this is example</div>
+    <Example /> */}
     </>
   );
 }
